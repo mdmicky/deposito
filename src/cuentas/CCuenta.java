@@ -1,7 +1,11 @@
 package cuentas;
 public class CCuenta {
 
-
+/**
+ * @author Miguel
+ * @since 16/2/2022
+ * @version 1.0
+ */
     private String nombre;
     private String cuenta;
     private double saldo;

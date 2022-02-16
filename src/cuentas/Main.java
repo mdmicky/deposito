@@ -1,5 +1,12 @@
 package cuentas;
 public class Main {
+	
+	/**
+	 * @author Miguel
+	 * @since 16/2/2022
+	 * @version 1.0
+	 * @param args
+	 */
 
     public static void main(String[] args) {
         CCuenta miCuenta;
